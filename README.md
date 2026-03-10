@@ -317,6 +317,6 @@ By combining **data analysis, feature engineering, machine learning, and visuali
 
 # Author
 
-Machine Learning Task – Future Interns (2026)
+Shubham Kumar
 
 Sales & Demand Forecasting Project
